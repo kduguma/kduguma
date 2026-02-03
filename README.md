@@ -8,7 +8,7 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https:www.linkedin.com/in/keni-duguma-b05a32284"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https:www.linkedin.com/in/keni-duguma"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:keni.duguma@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
@@ -26,7 +26,7 @@ When I'm not working with data, I enjoy learning new languages and playing sport
 
 ## 🌱 Currently Learning 
 
-- Currently learning Python, SQL, and Power BI to build end-to-end data analysis and visualisation workflows.
+- Currently learning Excel, SQL, and Power BI to build end-to-end data analysis and visualisation workflows.
 
 ## 🛠️ Technical Skillset
 
