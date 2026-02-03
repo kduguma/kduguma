@@ -22,7 +22,7 @@ When I'm not working with data, I enjoy learning new languages and playing sport
 ## 🔭 What I'm Currently Working On 
 
 - **Project A:** A data-driven exploration of global health trends, identifying how disease burdens have shifted over time using Python and SQL.  
-<a href="https://github.com/kduguma/global-burden-of-disease-analysis></a>
+<a href="https://github.com/kduguma/global-burden-of-disease-analysis"></a>
 ## 🌱 Currently Learning 
 
 - Currently learning Excel, SQL, and Power BI to build end-to-end data analysis and visualisation workflows.
